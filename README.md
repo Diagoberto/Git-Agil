@@ -4,3 +4,11 @@ O objetivo deste repositório é facilitar a reprodução de uma instalação do
 através do **Rundeck**.
 
 ## Intruções 
+
+Basta executar:
+
+================
+bash 
+bash main.sh
+================
+
